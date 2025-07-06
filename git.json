@@ -1,42 +1,42 @@
 [
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/COVID_clinical_trials.csv",
-        "p_sink_folder":"COVID_clinical_trials",
-        "p_sink_file":"COVID_clinical_trials.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "AdventureWorks_Product_Categories",
+        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/Clinical%20Data_Discovery_Cohort.csv",
-        "p_sink_folder":"Clinical_Data_Discovery_Cohort",
-        "p_sink_file":"Clinical_Data_Discovery_Cohort.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "p_sink_folder" : "AdventureWorks_Calendar",
+        "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/Heart_Failure_Clinical_Records.csv",
-        "p_sink_folder":"Heart_Failure_Clinical_Records",
-        "p_sink_file":"Heart_Failure_Clinical_Records.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "p_sink_folder" : "AdventureWorks_Customers",
+        "p_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/Tesla_stock_data.csv",
-        "p_sink_folder":"Tesla_stock_data",
-        "p_sink_file":"Tesla_stock_data.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder" : "Product_Subcategories",
+        "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/airline_data.csv",
-        "p_sink_folder":"airline_data",
-        "p_sink_file":"airline_data.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "p_sink_folder" : "AdventureWorks_Products",
+        "p_sink_file" : "AdventureWorks_Products.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/dailyActivity_merged.csv",
-        "p_sink_folder":"dailyActivity_merged",
-        "p_sink_file":"dailyActivity_merged.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_2016",
+        "p_sink_file" : "AdventureWorks_Sales_2016.cvsv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/hourlyIntensities_merged.csv",
-        "p_sink_folder":"hourlyIntensities_merged",
-        "p_sink_file":"hourlyIntensities_merged.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_2017",
+        "p_sink_file" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "p_rel_url":"SanataniL/Fabric-Tutorial/refs/heads/main/sleepDay_merged.csv",
-        "p_sink_folder":"sleepDay_merged",
-        "p_sink_file":"sleepDay_merged.csv"
+        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "p_sink_folder" : "AdventureWorks_Territories",
+        "p_sink_file" : "AdventureWorks_Territories.csv"
     }
 ]
